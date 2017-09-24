@@ -2,7 +2,7 @@ port: 4000
 
 name: Duckietown
 markdown: redcarpet
-pygments: true
+highlither: true
 baseurl: /inicio
 
 links:
