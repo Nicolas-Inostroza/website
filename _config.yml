@@ -1,0 +1,14 @@
+port: 4000
+
+links:
+    -title: Home
+     url:/
+
+    -title: Proyecto
+     url:/proyecto.html
+
+    -title: Curso
+     url:/proyecto/curso 
+
+    -title: Material del Curso
+     url:/material-del-curso
