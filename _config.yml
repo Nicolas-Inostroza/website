@@ -1,5 +1,10 @@
 port: 4000
 
+name: Duckietown
+markdown: redcarpet
+pygments: true
+baseurl: /inicio
+
 links:
     -title: Home
      url:/
