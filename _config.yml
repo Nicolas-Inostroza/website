@@ -2,10 +2,10 @@ port: 4000
 
 links:
     -title: Home
-     url:/
+     url:/index
 
     -title: Proyecto
-     url:/proyecto.html
+     url:/proyecto
 
     -title: Curso
      url:/proyecto/curso 
