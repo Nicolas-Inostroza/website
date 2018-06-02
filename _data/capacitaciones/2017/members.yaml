@@ -1,0 +1,66 @@
+- name: 'Matías Mattamala'
+  pic: 'MatiasMatamala.jpg'
+  position: 'Chief Executive Officer'
+
+- name: 'Eugenio Bravo'
+  pic: 'EugenioBravo.jpg'
+  position: 'Chief Project Officer'
+
+- name: 'Cristopher Gómez'
+  pic: 'CristopherGomez.jpg'
+  position: 'Chief Happinness Officer'
+
+- name: 'Pablo Estefó'
+  pic: 'PabloEstefo.jpg'
+  position: 'Chief Communications Officer'
+
+- name: 'Gonzalo Olave'
+  pic: 'GonzaloOlave.jpg'
+  position: 'Chief Operations Officer'
+
+- name: 'Miguel Campusano'
+  pic: 'MiguelCampusano.jpg'
+  position: 'Chief Technology Officer'
+
+- name: 'Luz Martínez'
+  pic: 'LuzMartinez.jpg'
+  position: 'Perception Leader'
+
+- name: 'Joakin Ugalde'
+  pic: 'JoakinUgalde.jpg'
+  position: 'Mechanical Leader'
+
+- name: 'Rodrigo Muñoz'
+  pic: 'RodrigoMunoz.jpg'
+  position: 'Senior Hardware Engineer'
+
+- name: 'Francisco Ca(l)sado'
+  pic: 'FranciscoCasado.jpg'
+  position: 'Assembly Line Supervisor'
+
+- name: 'Javier Urrutia'
+  pic: 'JavierUrrutia.jpg'
+  position: 'Developer'
+
+- name: 'Felipe San Martín'
+  pic: 'FelipeSanMartin.jpg'
+  position: 'Developer'
+
+- name: 'Javier Carrasco'
+  pic: 'JavierCarrasco.jpg'
+  position: 'Developer'
+
+- name: 'Pablo Zúñiga'
+  position: 'Developer'
+
+- name: 'Alejando González'
+  pic: 'AlejandroGonzalez.jpg'
+  position: 'Developer'
+
+- name: 'Camila Villar'
+  pic: 'CamilaVillar.jpg'
+  position: 'Web Developer'
+
+- name: 'Rocío González'
+  pic: 'RocioGonzalez.jpg'
+  position: 'Duck Psychologist'
