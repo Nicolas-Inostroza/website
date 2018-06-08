@@ -1,0 +1,114 @@
+<!-- Sidebar -->
+  <div id="sidebar">
+    <div class="inner">
+
+      <!-- Search -->
+<!--         <section id="search" class="alt">
+          <form method="post" action="#">
+            <input type="text" name="query" id="query" placeholder="Search" />
+          </form>
+        </section> -->
+
+      <!-- Menu -->
+        <nav id="menu">
+          <header class="major">
+            <h2>Menu</h2>
+          </header>
+          <ul>
+
+            <li><a href='/about_us.html'>Nosotros</a></li>
+
+            <li>
+              <span class="opener">Qué Hacemos</span>
+              <ul>
+                <li><a href="/empresa.html">Empresa</a></li>
+                <li><a href="/educacional.html">Sin Corbata</a></li>
+              </ul>
+            </li>
+
+            <li>
+              <span class="opener">Capacitaciones</span>
+              <ul>
+                <li><a href="/capacitaciones/2018.html">2018</a></li>
+                <li><a href="/capacitaciones/2017.html">2017</a></li>
+              </ul>
+            </li>
+
+            <li>
+              <span class="opener">Equipamiento</span>
+              <ul>
+                <li><a href="/robot.html">Duckiebot</a></li>
+                <li><a href="/pista.html">Viña Duckietown Chile</a></li>
+              </ul>
+            </li>
+
+            <li>
+              <span class="opener">Eventos Externos</span>
+              <ul>
+                <li><a href="/talks.html">Charlas</a></li>
+                <li><a href="/expo.html">Exposiciones</a></li>
+              </ul>
+            </li>
+
+          </ul>
+        </nav>
+
+      <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>Conoce lo que Hacemos</h2>
+          </header>
+          <div class="mini-posts">
+            <article>
+              <a href="/capacitaciones/2018" class="image"><img src="assets/images/new_training.jpg" alt="" /></a>
+              <p>Nuestra capacitación actual</p>
+            </article>
+            <article>
+              <a href="/robot.html" class="image"><img src="assets/images/robot1.jpg" alt="" /></a>
+              <p>Nuestro robot</p>
+            </article>
+          </div>
+          <!-- <ul class="actions">
+            <li><a href="#" class="button">More</a></li>
+          </ul> -->
+        </section>
+
+      <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>Partners</h2>
+          </header>
+          <p>Estas son nuestras redes de apoyo</p>
+          <ul class="contact">
+            <li class=""><a href="https://www.facebook.com/ComunidadRoboticaUChile/" target="_blank">Comunidad de Robótica</a></li>
+            <li class=""><a href="http://www.fablab.uchile.cl" target="_blank">FabLab UChile</a></li>
+          </ul>
+        </section>
+
+      <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>Contáctanos</h2>
+          </header>
+          <p>Búscanos en nuestras redes sociales</p>
+          <ul class="contact">
+            {% if site.facebook_url %}
+            <li class="fa-facebook"><a href="{{ site.facebook_url }}" target="_blank">Duckietown CL</a></li>
+            {% endif %}
+            <!-- <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
+            <li class="fa-phone">{{ site.phone }}</li> -->
+            <li class="fa-home">{{ site.street_address }}<br />
+            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
+            {{ site.country }}</li>
+          </ul>
+        </section>
+
+      
+
+      <!-- Footer -->
+        <footer id="footer">
+          <p class="copyright">&copy; {{ site.title }} {{site.subtitle}}. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
+        </footer>
+
+    </div>
+  </div>

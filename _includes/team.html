@@ -1,0 +1,43 @@
+<h3>Equipo</h3>
+
+<div class="row"> 
+
+{% for member in include.members %}
+	<div class="4u 12u$(small)">
+    {% if member.pic == nil %}
+      <img src="/assets/images/capacitaciones/none.jpg" />
+    {% else %}
+      <img src="/assets/images/capacitaciones/{{include.year}}/members/{{ member.pic }}" />
+    {% endif %}
+
+    <p>
+    <strong> {{ member.name }} </strong> <br />
+    {{ member.position }}
+    </p> 
+
+  </div>
+{% endfor %}
+
+</div>
+
+
+<h3>Ingenier@s Trainee</h3>
+
+<div class="row">
+  
+
+{% for trainee in include.trainees %}
+  <div class="4u 12u$(small)">
+    {% if trainee.pic == nil %}
+      <img src="/assets/images/capacitaciones/none.jpg" />
+    {% else %}
+      <img src="/assets/images/capacitaciones/{{include.year}}/trainees/{{ trainee.pic }}" />
+    {% endif %}
+    <p>
+    <strong> {{ trainee.name }} </strong>
+    </p> 
+
+  </div>
+{% endfor %}
+
+</div>
