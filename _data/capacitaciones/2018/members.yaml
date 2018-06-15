@@ -1,0 +1,46 @@
+- name: 'Matías Mattamala'
+  pic: 'MatiasMatamala.jpg'
+  position: 'Chief Executive Officer'
+
+- name: 'Eugenio Bravo'
+  pic: 'EugenioBravo.jpg'
+  position: 'Chief Project Officer'
+
+- name: 'Gonzalo Olave'
+  pic: 'GonzaloOlave.jpg'
+  position: 'Chief Operations Officer'
+
+- name: 'Miguel Campusano'
+  pic: 'MiguelCampusano.jpg'
+  position: 'Chief Technology Officer'
+
+- name: 'Joakin Ugalde'
+  pic: 'JoakinUgalde.jpg'
+  position: 'Mechanical Leader'
+
+- name: 'Javier Urrutia'
+  pic: 'JavierUrrutia.jpg'
+  position: 'Developer'
+
+- name: 'Felipe San Martín'
+  pic: 'FelipeSanMartin.jpg'
+  position: 'Developer'
+
+- name: 'Javier Carrasco'
+  pic: 'JavierCarrasco.jpg'
+  position: 'Developer'
+
+- name: 'Pablo Zúñiga'
+  position: 'Developer'
+
+- name: 'Catalina Cáceres'
+  pic: 'CCaceres.JPG'
+
+- name: 'Nicolás Fredes'
+  pic: 'NFredes.JPG'
+
+- name: 'Samuel Madera'
+  pic: 'Sam.JPG'
+
+- name: 'Fernando Maron'
+  pic: 'Maron.JPG'

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Sin Corbata: Curso de Ingeniería"
-image: assets/images/banner/team.png
+title: "Sin Corbata: Curso de Injeniería"
+image: assets/images/pic11.jpg
 ---
 
 <p>
