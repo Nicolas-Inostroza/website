@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pueblo de Duckietown
+title: Viña
 image: assets/images/banner/team.png
 ---
 

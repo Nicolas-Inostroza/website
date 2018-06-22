@@ -1,47 +1,39 @@
-- name: 'Cristian Cisternas'
-  pic: 'Cisternas.JPG'
+- name: 'Enzo Bassano'
 
-- name: 'Fernando Fetis'
-  pic: 'FFetis.jpg'
+- name: 'Luis Cárcamo'
 
-- name: 'Diego González'
-  pic: 'DGonzalez.JPG'
+- name: 'Andrés Cerda'
 
-- name: 'Enzo Iubini'
-  pic: 'Iubini.JPG'
+- name: 'Tomás De la Sotta'
 
-- name: 'Nicole Jara'
-  pic: 'NJara.JPG'
+- name: 'Santiago Ernst'
 
-- name: 'Nicolás Jiménez'
-  pic: 'NJimenez.JPG'
+- name: 'Benjamín Hunfan'
 
-- name: 'Alejandro Luzanto'
-  pic: 'Luzanto.JPG'
+- name: 'Miguel Jaramillo'
 
-- name: 'Antonio Montalva'
-  pic: 'Montalva.JPG'
+- name: 'Eduardo Jorquera'
 
-- name: 'Javier Mosnaim'
-  pic: 'Mosnaim.JPG'
+- name: 'Eduardo Loayza'
 
-- name: 'Diego Ortego'
-  pic: 'DOrtego.JPG'
+- name: 'Pedro Martínez'
 
-- name: 'Cristóbal Peralta'
-  pic: 'Peralta.JPG'
+- name: 'Camilo Meneses'
 
-- name: 'Diego Rivera'
-  pic: 'DRivera.JPG'
+- name: 'Raimundo Olckers'
 
-- name: 'Pavan Samtani'
-  pic: 'PSamtani.JPG'
+- name: 'Dario Osses'
 
-- name: 'Julián Solís'
-  pic: 'Julian.JPG'
+- name: 'Luis Plaza'
 
-- name: 'Juan Urrutia'
-  pic: 'JUrrutia.JPG'
+- name: 'Ignacio Poblete'
 
-- name: 'Kelly Wagermann'
-  pic: 'Kelly.JPG'
+- name: 'Ariel Riveros'
+
+- name: 'Emilio Roa'
+
+- name: 'Diego Rubio'
+
+- name: 'Maximiliano Varas'
+
+- name: 'Sebastián Zapata'

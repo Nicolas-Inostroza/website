@@ -1,10 +1,10 @@
-- name: 'Matías Mattamala'
-  pic: 'MatiasMatamala.jpg'
-  position: 'Chief Executive Officer'
-
 - name: 'Eugenio Bravo'
   pic: 'EugenioBravo.jpg'
   position: 'Chief Project Officer'
+
+- name: 'Matías Mattamala'
+  pic: 'MatiasMatamala.jpg'
+  position: 'Chief Executive Officer'
 
 - name: 'Cristopher Gómez'
   pic: 'CristopherGomez.jpg'
@@ -53,8 +53,14 @@
 - name: 'Pablo Zúñiga'
   position: 'Developer'
 
-- name: 'Alejando González'
+- name: 'Alejandro González'
   pic: 'AlejandroGonzalez.jpg'
+  position: 'Developer'
+
+- name: 'José Astorga'
+  position: 'Developer'
+
+- name: 'Lukas Pavez'
   position: 'Developer'
 
 - name: 'Camila Villar'
@@ -64,3 +70,4 @@
 - name: 'Rocío González'
   pic: 'RocioGonzalez.jpg'
   position: 'Duck Psychologist'
+
