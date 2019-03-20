@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Duckiebot
-image: assets/images/banner/team.png
+image: assets/images/doki1.jpg
 ---
 
 <p>

@@ -1,0 +1,71 @@
+- name: 'Miguel Campusano'
+  pic: 'MiguelCampusano.jpg'
+  position: 'Chairman of the Board'
+
+- name: 'Matías Mattamala'
+  pic: 'MatiasMatamala.jpg'
+  position: 'Chief Executive Officer'
+
+- name: 'Gonzalo Olave'
+  pic: 'GonzaloOlave.jpg'
+  position: 'Member of the Board - Chasquilla Master'
+
+- name: 'Joakin Ugalde'
+  pic: 'JoakinUgalde.jpg'
+  position: 'Member of the Board'
+
+- name: 'José Astorga'
+  position: 'Chief Operetions Officer'
+
+- name: 'Felipe San Martín'
+  pic: 'FelipeSanMartin.jpg'
+  position: 'Chief Vision-ary Officer'
+
+- name: 'Rodrigo Delgado'
+  position: 'Chief Technology Officer'
+
+- name: 'Lukas Pavez'
+  position: 'Chief Human Resources Officer'
+
+- name: 'Pablo Zúñiga'
+  position: 'Chief Communications Officer'
+
+- name: 'Javier Urrutia'
+  pic: 'JavierUrrutia.jpg'
+  position: 'ROS Master'
+
+- name: 'Fernando Maron'
+  pic: 'Maron.JPG'
+  position: 'Systems Development Lead'
+
+- name: 'Catalina Cáceres'
+  pic: 'CCaceres.JPG'
+  position: 'Mechanical Development Lead'
+
+- name: 'Samuel Madera'
+  pic: 'Sam.JPG'
+  position: 'Mechanical Development Lead'
+
+- name: 'Nicolás Fredes'
+  pic: 'NFredes.JPG'
+  position: 'Training & Mentoring Supervisor'
+
+- name: 'Cristóbal Silva'
+  position: 'Web Consultor'
+
+- name: 'Enzo Bassano'
+  position: 'Quality of Life Manager'
+
+- name: 'Sebastián Zapata'
+  position: 'Cyber Security Ninja'
+
+- name: 'Eduardo Loayza'
+  position: 'Ducks Resources Manager'
+
+
+
+
+
+
+
+
