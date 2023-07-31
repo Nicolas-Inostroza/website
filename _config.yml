@@ -4,7 +4,7 @@ subtitle: Chile
 email:
 description: Duckietown Engineering ha abierto su subsidiaria en Chile, Duckietown Chile y estamos buscando a los mejores ingenierios e ingenieras para que se unan a nuestro nuevo proyecto. Necesitamos tu ayuda para desarrollar vehículos autónomos para ayudar a la producción agrícola en Chile.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nicolas-inostroza.github.io/website" # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author:
 street_address: Beauchef 851
 city: Santiago
